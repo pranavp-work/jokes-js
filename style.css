@@ -59,6 +59,14 @@ button:disabled {
     button {
         box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
     }
+
+    p {
+        color: whitesmoke;
+        background: rgba(255, 52, 130, 0.4);
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        margin: 10px 20px;
+    }
 }
 
 p {
